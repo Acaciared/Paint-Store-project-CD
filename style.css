@@ -30,7 +30,7 @@ strong {
   }
 }
 
-eader {
+header {
   display: flex;
   align-items: center;
   padding: 0.5rem 3.75rem;
@@ -298,8 +298,6 @@ h1 {
 .reds .hue .color-5 {
   background-color: hsl(20, 100%, 50%);
 }
-
-/* Green Swatches */
 
 .greens .base-color {
   color: hsl(350, 100%, 50%);
